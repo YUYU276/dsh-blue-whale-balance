@@ -1,0 +1,18 @@
+Whale SVG: DeepSeek official brand artwork, reproduced unmodified from
+FenyxHuang/dsh-desktop-pet src/client/whale.ts (MIT).
+Reference project: https://github.com/FenyxHuang/dsh-desktop-pet
+Reference commit is recorded in README.md.
+The DeepSeek name and whale artwork belong to DeepSeek. This is a local
+community plugin, not an official DeepSeek product.
+Plugin code is original; no runtime dependency on the reference plugin.
+
+Whale-chan sprite: newly generated with the built-in image_gen tool from a
+text description of the community's common character traits. No downloaded
+reference image is bundled or uploaded to the generation service.
+Character information: https://github.com/Neko3000/deepseek-whalechan
+Known community character design contributors credited by that project:
+ZipZipPipe (https://space.bilibili.com/4168597) and
+上善无形 (https://space.bilibili.com/4456176).
+Generation prompt: ASSET-PROMPT.md.
+
+2026-10-14: 六种情景逐帧素材由内置 image_gen 绘制，每种两组四帧。工具生成的精灵图经透明间隙分帧、留白和等比例打包为 2048x1024 RGBA PNG；源图保存在本次工作目录 work/source-sheets，提示词见 FRAME-PROMPTS.json。

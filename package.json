@@ -1,0 +1,54 @@
+{
+  "name": "dsh-blue-whale-balance",
+  "version": "1.4.0",
+  "description": "DeepSeek 余额动画桌宠：按密钥观测账目、历史趋势与主题提醒设置",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "assets",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE",
+    "NOTICE",
+    "ASSET-PROMPT.md",
+    "STATE-PROMPTS.json",
+    "FRAME-PROMPTS.json",
+    "preview.html",
+    "VALIDATION.md",
+    "src",
+    "scripts",
+    "tests"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-layout",
+        "@deepseek-ai/dsh-client-ui-slots",
+        "@deepseek-ai/dsh-client-ui-session",
+        "@deepseek-ai/dsh-client-ui-workspace"
+      ]
+    }
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build-client.mjs",
+    "test:ui": "node tests/animation-ui.mjs && node tests/ledger-ui.mjs"
+  },
+  "license": "MIT",
+  "author": "YUYU276",
+  "devDependencies": {
+    "jsdom": "26.1.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

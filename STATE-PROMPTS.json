@@ -1,0 +1,18 @@
+[
+  {
+    "name": "low-grains",
+    "prompt": "Edit this exact character sprite into a low-balance begging-for-rice animation pose. Preserve her exact identity, blue/cyan hair, fin ears, tail, proportions, dress, line art and transparent alpha. She hugs the same bowl in front of her, tilting its open top towards the viewer so the bowl is visibly almost empty with ONLY three or four tiny white rice grains, absolutely no mound of rice. Her big blue eyes are watery pleading puppy eyes, sad raised inner eyebrows, small quivering pout, shoulders hunched, head slightly tilted, tail hanging low. Cute pitiable hungry expression, nonsexual wholesome anime sticker. Full body and entire tail remain in frame. No text, no backdrop, no floor or shadow, genuinely transparent background. This is the same whale-maid mascot in the low-credit state."
+  },
+  {
+    "name": "low-offer",
+    "prompt": "Edit this exact character sprite into a second low-balance animation pose. Preserve same identity, blue/cyan long hair, whale-fin ears, tail, costume, proportions and polished chibi line art with transparent alpha. She extends both hands towards the viewer OFFERING her almost EMPTY same ceramic rice bowl, only two individual rice grains inside, bowl opening clearly visible. Sad hopeful big blue eyes and raised eyebrows, small timid smile, head tilts the opposite direction, slightly bent knees, tail rests low curled behind her. This is a cute pleading 'please give me rice' gesture, full body and tail visible. No text, no background, no floor shadow, transparent alpha."
+  },
+  {
+    "name": "working",
+    "prompt": "Edit this exact character sprite into a working/thinking state desktop pet pose. Preserve her exact identity, hair gradients, whale-fin ears, tail, costume, 2.5-head chibi proportions, lineart and transparent alpha. She holds a small blank dark-blue tablet/clipboard in one arm and a pen in the other hand near her cheek, intent thoughtful bright blue eyes, slightly concentrated eyebrows and pursed tiny mouth, tail lifted in concentration. Her rice bowl now stands beside one foot, full of rice and small, keeping the same mascot white-rice motif. Full body/tail/props fit centered in the frame. No readable writing on tablet, no text, no backdrop, no floor, no shadow, genuinely transparent background."
+  },
+  {
+    "name": "done",
+    "prompt": "Edit this exact character sprite into a completed-work happy pose. Preserve her exact identity, blue/cyan long hair, whale-fin ears, tail, costume, 2.5-head chibi proportions and clean anime lineart, transparent alpha. Her big blue eyes smile cheerfully, one hand makes an enthusiastic thumbs-up while the other holds her full bowl of rice, body lifted lightly onto tiptoes, tail curls up triumphantly. Extremely clear celebratory silhouette readable as desktop pet sprite. Entire full body and tail fit centered. No text, no floating icons, no backdrop, no floor/shadow, genuinely transparent background."
+  }
+]
